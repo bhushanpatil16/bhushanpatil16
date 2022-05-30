@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhushan Patil
+### 👋 Hi, I’m Bhushan Patil
 - 👀 I’m interested in ...Data analysis & ML
 - 🌱 I’m currently learning ...Data science
 - 💞️ I’m looking to collaborate on ...
